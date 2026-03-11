@@ -1,0 +1,3 @@
+[submodule "2D-Game-Engine"]
+	path = 2D-Game-Engine
+	url = https://github.com/cindyzhao1234/2D-Game-Engine.git
